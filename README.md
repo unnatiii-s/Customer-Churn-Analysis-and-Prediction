@@ -2,19 +2,6 @@
 
 This project aims to predict whether a customer will churn (leave a company) using machine learning techniques. The pipeline includes data preparation, feature selection, model training, and evaluation. This is especially useful for subscription-based businesses to improve customer retention.
 
-📂 Project Structure
-|-----------------------------------|---------------------------------------------------------------------------------------------------|
-| File Name                         | Description                                                                                       |
-|-----------------------------------|---------------------------------------------------------------------------------------------------|
-| README.md                         | Project overview and documentation                                                                |
-| task1.ipynb                       | Data loading and preprocessing (handling missing values, encoding)                                |
-| task2.ipynb                       | Splitting dataset into training and testing sets                                                  |
-| task3_feature_selection.ipynb     | Identifying and selecting relevant features                                                       |
-| task4_model_selection.ipynb       | Choosing appropriate classification algorithms                                                    |
-| task5_model_training.ipynb        | Training the selected model on the training data                                                  |
-| task6_model_evaluation.ipynb      | Evaluating model performance with metrics like accuracy, precision, recall, F1-score, and ROC-AUC |
-|---------------------------------------------------------------------------------------------------------------------------------------|
-
 Task 1: Data Preparation
 Notebook: task1.ipynb  
 Description : Load and preprocess the dataset, handle missing values, and encode categorical variables.
